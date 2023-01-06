@@ -1,10 +1,4 @@
+#Hey this is demo
 
-
-
-
-
-
-
-
-#Hey this is demO
+# I am making changes on Vs code with remote devlopment through ssh on virtual box 
 
